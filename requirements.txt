@@ -6,3 +6,5 @@ numpy
 pandas
 tensorflow
 scikit-learn
+gunicorn
+
